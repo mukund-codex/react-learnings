@@ -1,4 +1,4 @@
-# react-learnings
+# React-Learnings
 ```We will be jotting things which we will be learning in ReactJS```
 
 ## Index
